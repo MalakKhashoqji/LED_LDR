@@ -1,5 +1,5 @@
 void setup() {
-  // Connecting LED using light dependent resistor:
+  // put your setup code here, to run once:
 
 }
 
